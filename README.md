@@ -73,4 +73,7 @@ Desktop View	Mobile View
 📝 License
 This project is licensed under the MIT License.
 
+
+2025
 ADDED DETAILS
+
